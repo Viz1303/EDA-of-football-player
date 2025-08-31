@@ -49,6 +49,53 @@ This project goes beyond statistics, combining **sports analytics with business 
 
 ---
 
+## 📊 Visual Insights
+
+### 1. Goal Distribution by Minute Interval
+<p align="center">
+  <img src="images/distribution of goals by minute.png" alt="Goal Distribution by Minute Interval" width="500"/>
+</p>
+
+*Insight*: Haaland scores most frequently between **30–39 mins** and **60–69 mins**, giving City momentum in crucial phases.
+
+---
+
+### 2. Goal Type Breakdown
+<p align="center">
+  <img src="images/goals by pen and open.png" alt="Goals by Open Play vs Penalties" width="500"/>
+</p>
+
+*Insight*: **67% of Haaland’s goals** came from open play, showing low reliance on penalties/set pieces.
+
+---
+
+### 3. Shot Map & Conversion
+<p align="center">
+  <img src="images/shots towards goal.png" alt="Shot Map" width="500"/>
+</p>
+
+*Insight*: Average shot distance = **11.7 yards**, confirming his role as a penalty-box striker with high conversion rates.
+
+---
+
+### 4. Assist Types
+<p align="center">
+  <img src="images/distribution of goals scored by last action.png" alt="Assist Type Distribution" width="500"/>
+</p>
+
+*Insight*: Most goals came from **standard passes and crosses**, aligning with his aerial and physical strengths.
+
+---
+
+### 5. Top Assisters
+<p align="center">
+  <img src="images/distribution of assisters.png" alt="Top Assisters" width="500"/>
+</p>
+
+*Insight*: **Kevin De Bruyne** provided the most assists, but Haaland also scored many “unassisted” goals, proving he can create chances independently.
+
+---
+
 ## Strategic Recommendations (Business + Sporting)
 
 1. **Player Recruitment**  
