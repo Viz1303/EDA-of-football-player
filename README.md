@@ -1,6 +1,6 @@
-# ⚽ A Business Analytics Study on Erling Haaland’s Impact (Premier League 2022–23)
+# A Business Analytics Study on Erling Haaland’s Impact (Premier League 2022–23)
 
-## 🔍 Problem Statement
+## Problem Statement
 Erling Haaland’s debut season with Manchester City raised both footballing and business questions:  
 - Can his scoring efficiency translate into **sustained dominance** for City?  
 - How should the club **strategically build its squad** around his unique playing style?  
@@ -10,7 +10,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 - **Data Source**: Understat (goals, assists, shot maps, match outcomes).  
 - **Tools**: Python (Pandas, NumPy, Matplotlib).  
 - **Analysis Approach**:  
@@ -22,7 +22,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ---
 
-## 📊 Visual Insights
+## Visual Insights
 
 ### 1. Goal Distribution by Minute Interval
 <p align="center">
@@ -70,7 +70,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 1. **Timing Advantage = Marketing Leverage**  
    - Haaland scores heavily in post-halftime and early dominance phases.  
@@ -90,7 +90,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 ### Player Recruitment
 - **Wide Playmakers** (elite crossers) → exploit Haaland’s aerial dominance (e.g., Kvaratskhelia, Leão).  
@@ -107,20 +107,27 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ---
 
-## 📝 Lessons Learned
-1. **Layoffs ≠ Long-Term Solution**: Haaland’s efficiency is maximized only if the supporting cast fits his style.  
-2. **Business Growth = Football Success**: His goals directly correlate with trophies and brand value.  
-3. **Risk Management**: Over-reliance on one playmaker is dangerous both tactically and financially.  
-4. **Future Sustainability**: A balanced squad ensures City stays dominant even if Haaland’s form dips.  
+## Lessons Learned  
+
+1. **Player Efficiency Requires the Right System**  
+   Haaland’s efficiency is maximized only if the supporting cast (creative midfielders and wide crossers) continues to provide consistent service.  
+
+2. **Business Growth = Football Success**  
+   His goals directly correlate with trophies, commercial value, and global fan engagement.  
+
+3. **Risk Management**  
+   Over-reliance on a single playmaker (e.g., Kevin De Bruyne) is both a tactical and financial risk — succession planning is critical.  
+
+4. **Future Sustainability**  
+   A balanced squad ensures City remains dominant even if Haaland’s individual form dips.  
+
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Language**: Python  
 - **Libraries**: Pandas, NumPy, Matplotlib  
 - **Data Source**: Understat  
 - **Techniques**: EDA, Visualization, Business Analytics  
 
 ---
-
-✨ This project blends **sports analytics with business strategy** — showing how data on Erling Haaland’s debut season can guide **Manchester City’s recruitment, tactics, and global brand positioning**.
