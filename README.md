@@ -26,7 +26,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ### 1. Goal Distribution by Minute Interval
 <p align="center">
-  <<img src="[https://github.com/Viz1303/EDA-of-football-player/blob/main/Images/distribution%20of%20goals%20by%20minute.png?raw=true](https://github.com/Viz1303/EDA-of-football-player/blob/main/Erling%20halland%20Python%20Visualisation/Images/distribution%20of%20goals%20by%20minute.png)?raw=true" width="500"/>
+  <<img src="https://github.com/Viz1303/EDA-of-football-player/blob/main/Erling%20halland%20Python%20Visualisation/Images/distribution%20of%20goals%20by%20minute.png#:~:text=distribution-,of,-goals%20by%20minute.png?raw=true" width="500"/>
 </p>
 
 *Insight*: Haaland scores most frequently between **30–39 mins** and **60–69 mins**, giving City momentum in crucial phases.
