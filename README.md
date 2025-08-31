@@ -26,7 +26,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ### 1. Goal Distribution by Minute Interval
 <p align="center">
-  <img src="Images/distribution_of2_goals_by_minute.png" alt="Goal Distribution by Minute Interval" width="500"/>
+  <img src="Images/distribution_of_goals_by_minute.png" alt="Goal Distribution by Minute Interval" width="500"/>
 </p>
 
 *Insight*: Haaland scores most frequently between **30–39 mins** and **60–69 mins**, giving City momentum in crucial phases.
