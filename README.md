@@ -35,7 +35,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ### 2. Goal Type Breakdown
 <p align="center">
-  <img src="Images/goals%20by%20pen%20and%20open.png" alt="Goals by Open Play vs Penalties" width="500"/>
+  <img src="https://github.com/Viz1303/EDA-of-football-player/blob/main/Erling%20halland%20Python%20Visualisation/Images/goals%20by%20pen%20and%20open.png#:~:text=goals%20by%20pen-,and,-open.png?raw=true" width="500"/>
 </p>
 
 *Insight*: **67% of Haaland’s goals** came from open play, showing low reliance on penalties/set pieces.
@@ -44,7 +44,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ### 3. Shot Map & Conversion
 <p align="center">
-  <img src="Images/shots%20towards%20goal.png" alt="Shot Map and Conversion" width="500"/>
+  <img src="https://github.com/Viz1303/EDA-of-football-player/blob/main/Erling%20halland%20Python%20Visualisation/Images/shots%20towards%20goal.png#:~:text=shots-,towards,-goal.png?raw=true" width="500"/>
 </p>
 
 *Insight*: Average shot distance = **11.7 yards**, confirming his role as a penalty-box striker with high conversion rates.
@@ -53,7 +53,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ### 4. Assist Types
 <p align="center">
-  <img src="Images/distribution%20of%20goals%20scored%20by%20last%20action.png" alt="Assist Type Distribution" width="500"/>
+  <img src="https://github.com/Viz1303/EDA-of-football-player/blob/main/Erling%20halland%20Python%20Visualisation/Images/distribution%20of%20goals%20scored%20by%20last%20action.png#:~:text=distribution-,of,-goals%20scored%20by?raw=true" width="500"/>
 </p>
 
 *Insight*: Most goals came from **standard passes and crosses**, aligning with his aerial and physical strengths.
@@ -62,7 +62,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 ### 5. Top Assisters
 <p align="center">
-  <img src="Images/distribution%20of%20assisters.png" alt="Top Assisters" width="500"/>
+  <img src="https://github.com/Viz1303/EDA-of-football-player/blob/main/Erling%20halland%20Python%20Visualisation/Images/distribution%20of%20assisters.png#:~:text=distribution%20of-,assisters.png?raw=true" width="500"/>
 </p>
 
 *Insight*: **Kevin De Bruyne** provided the most assists, but Haaland also scored many “unassisted” goals, proving he can create chances independently.
