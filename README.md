@@ -67,6 +67,7 @@ This project combines **sports analytics with business insights**, analyzing Haa
 
 *Insight*: **Kevin De Bruyne** provided the most assists, but Haaland also scored many “unassisted” goals, proving he can create chances independently.
 
+
 ---
 
 ## 📈 Key Business Insights
